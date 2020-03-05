@@ -12,7 +12,7 @@ public class PreguntarNumero {
 		int numero = teclado.nextInt(); // lee un numero
 		System.out.println("has escrito" + numero);
 
-		// teclado.close(); // cerramos el teclado
+		teclado.close(); // cerramos el teclado
 	}
 
 }
