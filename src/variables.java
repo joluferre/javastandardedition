@@ -7,7 +7,7 @@ public class variables {
 		int b = 299;
 		int c = 101;
 
-		System.out.println("El resultado es " + "(a + b + c)");
+		System.out.println("El resultado es " + "(100 + 299 + 101" + ")");
 
 	}
 
