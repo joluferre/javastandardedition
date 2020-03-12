@@ -5,6 +5,9 @@ public class Persona {
 // Atributos, siempre son private para que no se puedan maniopualr fuera de esta clase
 // para poder manipular los atributos hay que crear métodos publicos getters y setters. ha esto se le llama encapsulación
 
+	public static final String GENERO_MASCULINO = null;
+	public static final String GENERO_FEMENINO = null;
+	public static final String GENERO_INDEFINIDO = null;
 	private String nombre;
 	private double altura;
 	private int edad;

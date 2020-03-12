@@ -2,6 +2,7 @@ package Ejerciciosbasicos;
 
 public class Alumno extends Persona {
 
+	public static final double NOTA_MAX = 10;
 	private String email;
 	private String github;
 	private double nota;
